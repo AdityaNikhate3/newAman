@@ -1,5 +1,3 @@
 # newAman
 
-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
-
-
+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
